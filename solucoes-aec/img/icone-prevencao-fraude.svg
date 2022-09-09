@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="151" viewBox="0 0 151 151">
+  <g id="Grupo_31249" data-name="Grupo 31249" transform="translate(-1074 -1527)">
+    <g id="Elipse_186" data-name="Elipse 186" transform="translate(1074 1527)" fill="none" stroke="#e36489" stroke-width="6">
+      <circle cx="75.5" cy="75.5" r="75.5" stroke="none"/>
+      <circle cx="75.5" cy="75.5" r="72.5" fill="none"/>
+    </g>
+    <path id="Caminho_24486" data-name="Caminho 24486" d="M85.4,118.471h5.444c-.276-1.886-2.862-2.758-4.768-2.943Z" transform="translate(1028.632 1467.687)" fill="#003278"/>
+    <path id="Caminho_24487" data-name="Caminho 24487" d="M329.706,52.887c-3.6,0-6.613,1.55-6.712,3.508-.137,2.7,5.247,4.619,9.892,3.275V57.6a28.161,28.161,0,0,1,2.955-2.567c-1.053-1.267-3.427-2.143-6.135-2.143" transform="translate(816.158 1523.705)" fill="#003278"/>
+    <path id="Caminho_24488" data-name="Caminho 24488" d="M7.561,16.468c-.645,0-1.094-.3-1-.658L9.71,3.006c.073-.3.6-.538,1.183-.538H59.785A46.863,46.863,0,0,1,76.834,2.5L76.119,0H5.61L0,19.648H44.044V16.468Z" transform="translate(1105 1571)" fill="#003278"/>
+    <path id="Caminho_24489" data-name="Caminho 24489" d="M110.514,33.568h-5l-.6,2.627c2.649-.237,4.907-1.3,5.607-2.627" transform="translate(1011.185 1540.981)" fill="#003278"/>
+    <path id="Caminho_24490" data-name="Caminho 24490" d="M95.331,37.353,94.5,40.988a10.721,10.721,0,0,1,4.809,1.371,3.741,3.741,0,0,1,2.016,2.818h27.228v-1.4c-5.877,1.2-12.337-1.18-12.1-4.659.174-2.59,4.175-4.623,8.924-4.623a12.063,12.063,0,0,1,7.578,2.267,29.41,29.41,0,0,1,6.987-3.194H103.346c-.821,1.941-4.135,3.525-8.015,3.785" transform="translate(1020.495 1540.981)" fill="#003278"/>
+    <rect id="Retângulo_515" data-name="Retângulo 515" width="44.005" height="2.626" transform="translate(1105.04 1593.625)" fill="#003278"/>
+    <rect id="Retângulo_516" data-name="Retângulo 516" width="44.005" height="2.626" transform="translate(1105.04 1599.236)" fill="#003278"/>
+    <rect id="Retângulo_517" data-name="Retângulo 517" width="44.005" height="2.626" transform="translate(1105.04 1604.846)" fill="#003278"/>
+    <path id="Caminho_24491" data-name="Caminho 24491" d="M.375,373.183v2.626H44.8a24.463,24.463,0,0,1-.343-2.626Z" transform="translate(1104.665 1237.274)" fill="#003278"/>
+    <path id="Caminho_24492" data-name="Caminho 24492" d="M439.152,45.758V72.106q.129,16.1,21.784,25.659,21.655-9.558,21.784-25.659V45.758c-10.119-9.655-33.417-9.686-43.568,0m40.727,1.266V72.09c-.095,10.869-8.7,17.744-18.577,22.386l-.366.172-.366-.172c-9.823-4.618-18.482-11.488-18.576-22.378V47.024a22.118,22.118,0,0,1,8-4.13c8.956-2.732,22.129-2.023,29.558,3.872Z" transform="translate(712.279 1536.566)" fill="#003278"/>
+    <path id="Caminho_24493" data-name="Caminho 24493" d="M499.535,81.736c-6.481,0-12.97,1.583-17.221,4.787v17.613h17.221Z" transform="translate(673.681 1497.906)" fill="#003278"/>
+    <path id="Caminho_24494" data-name="Caminho 24494" d="M645.189,320.864c8.987-4.294,17.133-10.621,17.221-20.661V293.6H645.189Z" transform="translate(528.027 1308.446)" fill="#003278"/>
+  </g>
+</svg>

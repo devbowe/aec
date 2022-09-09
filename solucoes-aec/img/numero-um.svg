@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="191" height="122" viewBox="0 0 191 122">
+  <g id="Grupo_31247" data-name="Grupo 31247" transform="translate(-140 -2770)">
+    <g id="Elipse_201" data-name="Elipse 201" transform="translate(209 2770)" fill="none" stroke="#86c12e" stroke-width="3">
+      <circle cx="61" cy="61" r="61" stroke="none"/>
+      <circle cx="61" cy="61" r="59.5" fill="none"/>
+    </g>
+    <circle id="Elipse_203" data-name="Elipse 203" cx="50" cy="50" r="50" transform="translate(220 2781)" fill="#86c12e"/>
+    <rect id="Retângulo_728" data-name="Retângulo 728" width="70" height="3" transform="translate(210 2833) rotate(180)" fill="#86c12e"/>
+    <text id="_1" data-name="1" transform="translate(270 2854)" fill="#fff" font-size="60" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-17.212" y="0">1</tspan></text>
+  </g>
+</svg>
