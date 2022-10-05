@@ -1,0 +1,113 @@
+$colors: (
+    "clr-neutral-100": #ffffff,
+    "clr-neutral-200": #f5f5f5,
+    "clr-neutral-300": #f9f9f9,
+    "clr-neutral-400": #707070,
+    "clr-neutral-500": #353535,
+    "clr-neutral-700": #21242d,
+    "clr-neutral-900": #15171b,
+
+    "clr-accent-blue": #0033a0,
+    "clr-accent-blue-dark": #022777,
+    "clr-accent-blue-light": #01b2e4,
+    "clr-accent-pink": #ff5174,
+);
+
+:root {
+    @each $name, $value in $colors {
+        --#{$name}: #{$value};
+    }
+}
+
+:root {
+    --ff-primary: "Roboto", sans-serif;
+
+    --spacing: 4rem;
+
+    --clr-gradient-pink: #de6a8d, #f790a3;
+    --clr-placeholder: #707070;
+    --clr-field: #212121;
+
+    @media screen and (min-width: 45em) {
+        --spacing: 5rem;
+    }
+
+    @media screen and (min-width: 70em) {
+        --spacing: 5.5rem;
+    }
+}
+
+html {
+    scroll-padding-top: 2rem;
+    font-size: 93.75%;
+
+    @media screen and (min-width: 45em) {
+        font-size: 100%;
+    }
+}
+
+body {
+    font-family: var(--ff-primary);
+}
+
+body,
+html {
+    overflow-x: hidden;
+}
+
+p {
+    max-width: var(--width, unset);
+}
+
+.center {
+    margin-inline: auto;
+    text-align: center;
+}
+
+.container {
+    width: min(90%, 77.25em);
+    margin-inline: auto;
+}
+
+.fw-bold {
+    font-weight: 700;
+}
+
+.spacing {
+    padding-block: var(--spacing);
+}
+
+.flow {
+    p + p {
+        margin-top: 1rem;
+    }
+}
+
+@each $name, $value in $colors {
+    .#{$name} {
+        color: #{$value};
+    }
+}
+
+::selection {
+    background-color: #ff8ca3;
+    color: var(--clr-neutral-100);
+}
+
+::-webkit-scrollbar {
+    width: 0.75em;
+}
+
+::-webkit-scrollbar-track {
+    background: #ff8ca3;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--clr-neutral-100);
+    border: 2px solid #ff8ca3;
+    border-radius: 10px;
+}
+
+body {
+    padding-right: 0 !important;
+}
